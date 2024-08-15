@@ -20,22 +20,6 @@
             "filterable": 1
         },
         {
-            "key": "didizy.com",
-            "name": "滴滴",
-            "type": 1,
-            "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "vnzyz.com",
-            "name": "越南",
-            "type": 1,
-            "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
             "key": "jingpinx.com",
             "name": "精品",
             "type": 1,
@@ -1484,5 +1468,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/18.ico"
+    "logo": "https://raw.github.tax/wwb521/live/main/18.ico"
 }
