@@ -1,9 +1,10 @@
-<h1 align="center"> <img src="https://raw.github.tax/wwb521/live/main/ys.ico">一个分享电视、影视源的项目 </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
-<h3>2024.9.14:直播源已经更新、不做任何技术指导、不接一对一需求定制、自己研究咋使用、说明中都有对应的软件下载链接</h3>
-
+<h3>2024.10.4:直播源已更新、这不是广电局，不要啰里啰唆没你爱看的频道、填写链接时不要开翻墙软件</h3>
+<h2>注意</h2>
+针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
 <h2>IPV6直播源</h2>
 <table>
   <thead>
@@ -15,20 +16,25 @@
     <tbody>
     <tr>
       <td>IPTV</td>
-      <td>
+  <td>
 
-https://raw.github.tax/wwb521/live/main/tv.txt</td>
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt </br>
+
+短链接：http://gg.gg/1c5sff
+
+</td>
 
 <td>
 
-https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/>
+
+短链接：http://gg.gg/1c5shv
+</td>
 
 </tr>
 
   </thead>
   </table>
-<h2>注意</h2>
-针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
 <h2>TvBox</h2>
 <table>
   <thead>
@@ -40,8 +46,17 @@ https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
     <tbody>
     <tr>
 <td>tvbox</td>
-<td>https://raw.github.tax/wwb521/live/main/movies.json</td>
-<td>https://raw.github.tax/wwb521/live/main/video.json</br></td>
+<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json </br>
+
+</br>短链接：http://gg.gg/1c5sjl
+
+
+</td>
+<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
+
+</br>短链接：http://gg.gg/1c5sjx
+
+</td>
 </tr>
   </thead>
   </table>
@@ -67,7 +82,8 @@ https://www.lige.chat</br>
 <h2>软件</h2>
 <h3>tvbox软件</h3>
 OK影视：</br>
-https://github.com/FongMi/Release</br>
+下载地址：https://github.com/FongMi/Release</br>
+使用教程：<a href="https://www.bilibili.com/video/BV13w411t7dM/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a> </br></br>
 
 可视TV Max：</br>
 https://wwc.lanzoub.com/b0es81t8j 密码:54jb</br>
@@ -77,13 +93,18 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 
 https://github.com/lizongying/my-tv-0/releases
 
+<h3>空壳直播软件配置教程（派大星直播APP为例）</h3>
+<a href="https://www.bilibili.com/video/BV1cM4m117sB/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a>
+
 <h2>打赏支持是我更新的动力</h2>
-<img src="https://raw.github.tax/wwb521/live/main/pay.jpeg" width="480px">
+<img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="480px">
 
 <h2>扫码联系</h2>
-<img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
+<img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="470px">
 
 <h2>VPN机场推荐</h2></br>
 <a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
+<a href="https://yyds.emovpn.top/#/register?code=LVXCEsxq">EMO</a></br>
+<a href="https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM">便宜机场</a></br>
 
 
