@@ -1,110 +1,167 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/ys.ico">一个分享电视、影视源的项目 </h1>
-<h3 align="center">永久免费 完整开源 </h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/ys.ico" alt="logo" width="100px" style="border-radius: 50%"/>
+  
+  # 🎬 免费影视资源项目
+  
+  [![](https://img.shields.io/badge/永久-免费-brightgreen.svg)](https://github.com/wwb521/live)
+  [![](https://img.shields.io/badge/完全-开源-orange.svg)](https://github.com/wwb521/live)
+  [![](https://img.shields.io/badge/持续-更新-blue.svg)](https://github.com/wwb521/live)
 
-<h2>公告栏</h2>
-<h3>2024.10.4:直播源已更新、这不是广电局，不要啰里啰唆没你爱看的频道、填写链接时不要开翻墙软件</h3>
-<h2>注意</h2>
-针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
-<h2>IPV6直播源</h2>
+  <p align="center">
+    <a href="#公告">📢 公告</a> • 
+    <a href="#直播源">📺 直播源</a> • 
+    <a href="#备用资源">🎯 备用资源</a> • 
+    <a href="#软件推荐">📱 软件推荐</a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/wwb521/live?style=social" alt="stars">
+    <img src="https://img.shields.io/github/forks/wwb521/live?style=social" alt="forks">
+  </p>
+</div>
+
+---
+
+## 📢 公告
 <table>
-  <thead>
-    <tr>
-        <th>类别</th>
-        <th>txt格式</th>
-        <th>m3u格式</th>
-    </tr>
-    <tbody>
-    <tr>
-      <td>IPTV</td>
-  <td>
+  <tr>
+    <td>
+      <b>🔔 最新通知：</b><br>
+      系统升级中，正在开发自动更新功能，敬请期待！<br>
+      <sub><i>更新时间：2024.11.18</i></sub>
+    </td>
+  </tr>
+</table>
 
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt </br>
+## 📺 直播源
 
-短链接：http://gg.gg/1c5sff
-
-</td>
-
-<td>
-
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/>
-
-短链接：http://gg.gg/1c5shv
-</td>
-
-</tr>
-
-  </thead>
-  </table>
-<h2>TvBox</h2>
+### 🌟 IPV6 直播源
 <table>
-  <thead>
-    <tr>
-        <th>类别</th>
-        <th>正常</th>
-        <th>18+(当心社死！！！)</th>
-    </tr>
-    <tbody>
-    <tr>
-<td>tvbox</td>
-<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json </br>
+  <tr>
+    <th width="15%" align="center">类型</th>
+    <th width="85%" align="center">链接</th>
+  </tr>
+  <tr>
+    <td align="center" rowspan="2"><b>IPTV</b></td>
+    <td>
+      <b>TXT格式：</b><br>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</code><br>
+      短链接：<code>http://gg.gg/1c5sff</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>M3U格式：</b><br>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u</code><br>
+      短链接：<code>http://gg.gg/1c5shv</code>
+    </td>
+  </tr>
+</table>
 
-</br>短链接：http://gg.gg/1c5sjl
+### 📱 TvBox 接口
+<table>
+  <tr>
+    <th width="15%" align="center">类型</th>
+    <th width="85%" align="center">链接</th>
+  </tr>
+  <tr>
+    <td align="center" rowspan="2"><b>TVBox</b></td>
+    <td>
+      <b>普通版：</b><br>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json</code><br>
+      短链接：<code>http://gg.gg/1c5sjl</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>成人版：</b><br>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json</code><br>
+      短链接：<code>http://gg.gg/1c5sjx</code>
+    </td>
+  </tr>
+</table>
 
+## 🎯 备用资源
 
-</td>
-<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
+### 📌 替代直播源
+<details>
+<summary>点击展开查看更多</summary>
 
-</br>短链接：http://gg.gg/1c5sjx
+- 📥 [网盘下载](https://wwt.lanzouj.com/b00xxqs6h) `密码: 7r7h`
+- 🌐 [在线直播](https://lyrics.run/my-tv.html)
+- 📱 优质开源项目:
+  - [![](https://img.shields.io/badge/GitHub-HTWMedia/HTV-brightgreen)](https://github.com/HTWMedia/HTV)
+  - [![](https://img.shields.io/badge/GitHub-SimpleTV-orange)](https://github.com/Potato-66/SimpleTV)
+  - [![](https://img.shields.io/badge/GitHub-My_TV-blue)](https://github.com/yaoxieyoulei/my_tv)
 
-</td>
-</tr>
-  </thead>
-  </table>
+</details>
 
-<h2>如果直播源很麻烦，就用下面的这些</h2>
-https://wwt.lanzouj.com/b00xxqs6h </br>密码:7r7h</br></br>
+### 🔍 备用 TVBox 接口
+<details open>
+<summary><b>更多接口</b></summary>
 
-https://lyrics.run/my-tv.html</br>
+> - [🏠 源仓库](https://cyuan.netlify.app/)
+> - [📺 在线接口](https://xn--sss604efuw.com/)
+> - [🔗 lige.chat](https://www.lige.chat)
 
-https://github.com/HTWMedia/HTV</br>
+</details>
 
-https://github.com/yaoxieyoulei/mytv-android</br>
+## 📱 软件推荐
 
-https://github.com/yaoxieyoulei/my_tv</br>
+### 💫 TVBox 系列
+<details open>
+<summary><b>OK影视</b></summary>
 
-https://github.com/Potato-66/SimpleTV</br>
+- ⬇️ [GitHub下载地址](https://github.com/FongMi/Release)
+- 📖 [Bilibili使用教程](https://www.bilibili.com/video/BV13w411t7dM/)
 
-<h2>觉得上面tvbox接口不咋的，就去这些网站看</h2>
-https://cyuan.netlify.app/</br>
-https://xn--sss604efuw.com/</br>
-https://www.lige.chat</br>
+</details>
 
-<h2>软件</h2>
-<h3>tvbox软件</h3>
-OK影视：</br>
-下载地址：https://github.com/FongMi/Release</br>
-使用教程：<a href="https://www.bilibili.com/video/BV13w411t7dM/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a> </br></br>
+<details open>
+<summary><b>可视TV Max</b></summary>
 
-可视TV Max：</br>
-https://wwc.lanzoub.com/b0es81t8j 密码:54jb</br>
+- ⬇️ [网盘下载](https://wwc.lanzoub.com/b0es81t8j) `密码: 54jb`
 
-<h3>空壳直播软件</h3>
-https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
+</details>
 
-https://github.com/lizongying/my-tv-0/releases
+### 📺 空壳直播软件
+<details open>
+<summary><b>软件下载</b></summary>
 
-<h3>空壳直播软件配置教程（派大星直播APP为例）</h3>
-<a href="https://www.bilibili.com/video/BV1cM4m117sB/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a>
+- 🔧 [软件合集](https://wwt.lanzouj.com/b00y2bymj) `密码: 7kkf`
+- 📱 [GitHub最新版本](https://github.com/lizongying/my-tv-0/releases)
+- 📖 [配置教程](https://www.bilibili.com/video/BV1cM4m117sB/)
 
-<h2>打赏支持是我更新的动力</h2>
-<img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="480px">
+</details>
 
-<h2>扫码联系</h2>
-<img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="470px">
+## 🤝 支持项目
 
-<h2>VPN机场推荐</h2></br>
-<a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
-<a href="https://yyds.emovpn.top/#/register?code=LVXCEsxq">EMO</a></br>
-<a href="https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM">便宜机场</a></br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="300px" alt="赞赏码" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <p><b>您的支持是我持续更新的动力 ❤️</b></p>
+</div>
 
+## 📞 联系方式
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="300px" alt="联系方式" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+
+## 🌐 VPN推荐
+| 服务商 | 链接 | 特点 |
+|:---:|:---|:---|
+| 免费机场 | [注册链接](https://w.免费机场.com/#/register?code=vwm5gImq) | 新用户免费体验 |
+| EMO | [注册链接](https://yyds.emovpn.top/#/register?code=LVXCEsxq) | 稳定性强 |
+| 性价比机场 | [注册链接](https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM) | 价格实惠 |
+
+---
+
+<div align="center">
+  <p>
+    <sub>Made with ❤️ by <a href="https://github.com/wwb521">wwb521</a></sub>
+  </p>
+  <p>
+    <sub>Copyright © 2024 All Rights Reserved.</sub>
+  </p>
+</div>
 
